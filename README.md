@@ -1,3 +1,4 @@
+[![Build Status](https://naviddarvishbeygi07.visualstudio.com/DevProject/_apis/build/status%2FNavid-db.js-e2e-express-server?branchName=main)](https://naviddarvishbeygi07.visualstudio.com/DevProject/_build/latest?definitionId=4&branchName=main)
 ---
 page_type: sample
 languages:
